@@ -1,8 +1,4 @@
-## Hi there 👋
-
-<!--
- -# 👋 Hi, I'm Dipali Kendre!
-
+#Hi i am dipali kendre 😊👋
 🎓 **First-year AIML student at Zeal College**  
 💻 Learning **C, Python & Data Structures**  
 🤖 Future **AI/ML Engineer**  
